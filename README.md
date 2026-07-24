@@ -8,7 +8,7 @@
 * Built a non-linear XGBoost classifier that increased recall to 30% by successfully mapping complex "if/then" scenarios and seasonal churn patterns.
 * Extracted feature importance scores, revealing that familial stability (College Degree, Home Ownership) and localized geographic risk (specific Texas counties) were stronger churn predictors than standard financial metrics like pure income or tenure.
 
-[**View the Jupyter Notebook and Source Code on GitHub**]([[link-to-your-repo](https://github.com/22kevinh21/AutoInsurancePricing)
+[**View the Jupyter Notebook and Source Code on GitHub**](https://github.com/22kevinh21/AutoInsurancePricing)
 
 ---
 
