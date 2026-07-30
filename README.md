@@ -22,6 +22,14 @@ Below you will find a collection of my technical projects, demonstrating my abil
 * Conducted a variance analysis comparing projected aggregate financial results against actual outcomes to evaluate model accuracy.
 
 
+### [Insurance Corporation Financials: Visualization & Analysis](https://github.com/22kevinh21/Insurance-Financials-Visualization-Analysis)
+**Tools:** Microsoft Excel
+* Visualized financial performance metrics, including loss ratios, profit margins, and per-member cost scaling over a multi-year horizon.
+* Constructed diverse visualizations (bar graphs, pie charts, line/scatter plots, histograms, and combination charts) to identify profitability trends and seasonal anomalies.
+* Utilized dynamic lookups (VLOOKUP/INDEX) to aggregate historical source data and map claims versus premiums.
+* Analyzed the predictability of operating expenses against claim volatility to assess overall portfolio health and underwriting performance.
+
+
 ### [Auto Insurance Churn Prediction Model](https://github.com/22kevinh21/AutoInsurancePricing)
 **Tools Used:** Python, Pandas, SQL (SQLite), XGBoost, Scikit-learn, SMOTE 
 **Objective:** To engineer a predictive classification model that identifies high-risk policyholders before cancellation to maximize Customer Lifetime Value (CLV) and reduce acquisition-related losses.
