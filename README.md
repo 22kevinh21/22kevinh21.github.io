@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I am an aspiring actuarial analyst with a degree in Applied Mathematics and a professional background in mathematics education. 
 
-My experience managing high school math classrooms has given me a unique advantage in the data world: I don't just calculate the numbers, I know how to translate complex mathematical logic into clear, actionable insights for any audience. Having recently passed the Actuarial Probability Exam (Exam P), I am actively building my technical skill set across Excel, Python, SQL, and data visualization.
+My experience managing high school math classrooms has given me a unique advantage in the data world: I know how to translate complex mathematical logic into clear, actionable insights for any audience. Having recently passed the Actuarial Probability Exam (Exam P), I am actively building my technical skill set across Excel, Python, SQL, and data visualization.
 
 Below you will find a collection of my technical projects, demonstrating my ability to handle everything from pure premium calculations to predictive data science models.
 
@@ -12,6 +12,14 @@ Below you will find a collection of my technical projects, demonstrating my abil
 *   Conducted exploratory data analysis (EDA) to map historical loss frequency and severity.
 *   Adjusted for inflation, capped policy limits, and isolated 1-in-20-year catastrophic risks.
 *   Drafted a complete executive report detailing the final premium calculations and stress-tested the model using a 6% severity increase sensitivity analysis.
+
+
+### [Insurance Financial Forecasting Model](https://github.com/22kevinh21/Insurance_Financial_Forecasting_Model)
+**Tools:** Microsoft Excel
+* Imported and structured over 9,000 records of daily financial data to track collected premiums, incurred claims, and administrative expenses.
+* Aggregated raw data into a monthly analysis table to calculate overall profitability and per-member financial performance metrics.
+* Built a dynamic lookup tool and applied historical trend factors to forecast future per-member costs and revenues.
+* Conducted a variance analysis comparing projected aggregate financial results against actual outcomes to evaluate model accuracy.
 
 
 ### [Auto Insurance Churn Prediction Model](https://github.com/22kevinh21/AutoInsurancePricing)
