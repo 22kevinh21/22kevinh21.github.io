@@ -30,7 +30,7 @@ Below you will find a collection of my technical projects, demonstrating my abil
 * Analyzed the predictability of operating expenses against claim volatility to assess overall portfolio health and underwriting performance.
 
 
-### [Auto Insurance Churn Prediction Model](https://github.com/22kevinh21/AutoInsurancePricing)
+### [Auto Insurance Churn Prediction Model](https://github.com/22kevinh21/AutoInsuranceChurnAnalysis)
 **Tools Used:** Python, Pandas, SQL (SQLite), XGBoost, Scikit-learn, SMOTE 
 **Objective:** To engineer a predictive classification model that identifies high-risk policyholders before cancellation to maximize Customer Lifetime Value (CLV) and reduce acquisition-related losses.
 **Summary:** 
@@ -41,7 +41,7 @@ Below you will find a collection of my technical projects, demonstrating my abil
 * Extracted feature importance scores, revealing that familial stability (College Degree, Home Ownership) and localized geographic risk (specific Texas counties) were stronger churn predictors than standard financial metrics like pure income or tenure.
 
 
-### [Insurance Pricing Optimization & Algorithmic Bias Audit](https://github.com/22kevinh21/AutoInsuranceChurnAnalysis)
+### [Insurance Pricing Optimization & Algorithmic Bias Audit](https://github.com/22kevinh21/AutoInsurancePricing)
 **Tools Used:** Python, Pandas, Scikit-learn (Random Forest Regressor), Seaborn, Matplotlib 
 **Objective:** To mathematically evaluate whether non-risk proxy variables heavily influence the final price charged to consumers, detecting potential socio-economic algorithmic bias.  
 **Summary:**
